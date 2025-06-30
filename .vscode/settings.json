@@ -1,0 +1,6 @@
+{
+    "vs-code-prettier-eslint.prettierLast": true,
+    "prettier.arrowParens": "always",
+    "prettier.enable": true,
+    "prettier.endOfLine": "auto"
+}

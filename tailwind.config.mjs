@@ -11,7 +11,7 @@ export default {
           current: "currentColor",
           alle: {
             50: "#EBF1DF",
-            100: "#32557B",
+            100: "#F4FCFF",
             200: "#E2CACC",
             300: "#D4B0B3",
             400: "#C49296",
