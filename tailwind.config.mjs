@@ -10,7 +10,7 @@ export default {
           transparent: "transparent",
           current: "currentColor",
           alle: {
-            50: "#F8F2F2",
+            50: "#EBF1DF",
             100: "#32557B",
             200: "#E2CACC",
             300: "#D4B0B3",
