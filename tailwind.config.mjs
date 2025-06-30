@@ -41,8 +41,8 @@ export default {
         },
   
         fontFamily: {
-          montserrat: ['"Montserrat"', "sans-serif"],
-          khand: ['"Khand"', "sans-serif"],
+          worksans: ["Work Sans", "sans-serif"],
+          minfont: ["Rothenburg-Bold", "sans-serif"],
         },
   
         fontWeight: {
